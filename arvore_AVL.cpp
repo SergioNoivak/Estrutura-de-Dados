@@ -2,7 +2,7 @@
 #include<stdlib.h>
 using namespace std;
 
-
+//Simples alteracao
 struct NO {
     int info;
     int alt;
